@@ -1,6 +1,7 @@
 # Backend home work 4. Cloud Storage
 
-Due to the end of the backend week, we have come up with an interesting task for you. The task is to make your own spotify clone. Here we gooo
+Due to the end of the backend week, we have come up with an interesting task for
+you. The task is to make your own spotify clone. Here we gooo
 
 ## 🥉 Basic Level
 
@@ -22,8 +23,8 @@ Due to the end of the backend week, we have come up with an interesting task for
 
 ### Tasks
 
-- [ ] Add sharing songs with using websokets like in Spotify(like currently listening)
-- [ ]
+- [ ] Add sharing songs with using websokets like in Spotify(like currently
+      listening)
 
 ## 🦅 LEGENDARY Level
 
