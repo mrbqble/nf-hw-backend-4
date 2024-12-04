@@ -20,7 +20,7 @@
 		"express-session": "^1.18.0",
 		"express-sessions": "^1.0.6",
 		"jsonwebtoken": "^9.0.2",
-		"mongoose": "^8.4.1",
+		"mongoose": "^8.8.3",
 		"morgan": "^1.10.0",
 		"passport": "^0.7.0",
 		"session": "^0.1.0"
